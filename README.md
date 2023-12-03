@@ -1,4 +1,4 @@
-#Simple 3D portfolio
+# SIMPLE 3D PORTFOLIO
 
 ### Demo Screeshots
 
@@ -7,7 +7,7 @@
 
 ### Run Locally
 
-To run **GameX** locally, run this command on your git bash:
+To run **3D Portfolio** locally, run this command on your git bash:
 
 Linux and macOS:
 
@@ -20,6 +20,8 @@ Windows:
 ```bash
 git clone https://github.com/t-med1/simple-3D-portfolio.git
 ```
+### Run Project
+
 
 ### Contact
 
