@@ -22,7 +22,9 @@ git clone https://github.com/t-med1/simple-3D-portfolio.git
 ```
 ### Run Project
 
-
+- First : `npm install`
+- Second : `npm run dev`
+  
 ### Contact
 
 If you want to contact with me you can reach me at [Linked-In](https://www.linkedin.com/in/mohammed-telaj-420488264/).
