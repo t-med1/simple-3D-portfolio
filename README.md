@@ -2,7 +2,7 @@
 
 ### Demo Screeshots
 
-![GameX Desktop Demo](./images/preview.jpg "Desktop Demo")
+![3D portfolio Desktop Demo](https://github.com/sushilthapa98/3d-portfolio/blob/main/public/images/preview.jpg "Desktop Demo")
 
 
 ### Run Locally
