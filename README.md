@@ -12,13 +12,13 @@ To run **GameX** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/gamex.git
+sudo git clone https://github.com/t-med1/simple-3D-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/gamex.git
+git clone https://github.com/t-med1/simple-3D-portfolio.git
 ```
 
 ### Contact
