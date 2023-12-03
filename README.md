@@ -2,7 +2,7 @@
 
 ### Demo Screeshots
 
-![3D portfolio Desktop Demo](https://github.com/sushilthapa98/3d-portfolio/blob/main/public/images/preview.jpg "Desktop Demo")
+![3D portfolio Desktop Demo](https://github.com/t-med1/simple-3D-portfolio/blob/main/demo.png "Desktop Demo")
 
 
 ### Run Locally
